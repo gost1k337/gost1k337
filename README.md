@@ -1,5 +1,5 @@
-Tishkov Rustam
-Junior Full-Stack Developer
+### Tishkov Rustam
+#### Junior Full-Stack Developer
 
 
 My skills:
