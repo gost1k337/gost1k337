@@ -1,17 +1,17 @@
-### Tishkov Rustam
+### Тишков Рустам
 #### Junior Full-Stack Developer
 
 
 
 
 
-My skills:
+Мои навыки:
 ---
   + OOP, BEM, MVC, REST API, SOLID
   + Docker, docker-compose
-  + Version Control Systems: Git
-  + Other: PyCharm Proffesional Edition, WebStorm
+  + Системы контроля версий: Git
   + Git repositories: GitHub, GitLab, BitBucket
+  + Другое: PyCharm Proffesional Edition, WebStorm
 
  
 Backend:
