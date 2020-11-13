@@ -2,6 +2,9 @@
 #### Junior Full-Stack Developer
 
 
+
+
+
 My skills:
 ---
   + Knowledge of OOP, BEM, MVC, REST API, building RESTful
