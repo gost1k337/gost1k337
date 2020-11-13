@@ -11,6 +11,7 @@ My skills:
   + Version Control Systems: Git
   + Docker, docker-compose
   + Other: PyCharm Proffesional Edition, WebStorm
+  + Git repositories: GitHub, GitLab, BitBucket
 
  
 Backend:
