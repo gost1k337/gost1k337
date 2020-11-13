@@ -17,17 +17,18 @@ My skills:
 Backend:
 ---
   + Python (Django, FastAPI, Flask)
+  + ORMs (Django ORM, Tortoise ORM, SqlAlchemy, Mongoose)
   + Node.js (Express, Socket.IO) + TypeScript
-  + SQL-db: PostrgreSQL, MySQL, PostgreSQL
+  + SQL-db: PostrgreSQL, MySQL
   + NoSQL-db: MongoDB, Redis
 
   
 Frontend:
 ---
-  + HTML/CSS/JS responsible coding (Flex, Bootstrap, Grid)
+  + HTML/CSS/JS (Flex, Bootstrap, Grid)
   + JavaScript - ES(6, 7, 8), TypeScript
-  + React.js (Material UI, Redux, MobX, Thunk, Saga, Next.js)
   + Vue.js (VueRouter, Vuex, Vuetify, NuxtJs)
+  + React.js (Material UI, Redux, MobX, Thunk, Saga, Next.js)
   + Angular (RxJs)
   + Webpack, Gulp
   + SASS/SCSS, LESS, Stylus
