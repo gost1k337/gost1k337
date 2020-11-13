@@ -7,15 +7,16 @@
 
 My skills:
 ---
-  + Knowledge of OOP, BEM, MVC, REST API, building RESTful
+  + OOP, BEM, MVC, REST API
   + Version Control Systems: Git
   + Docker, docker-compose
+  + Other: PyCharm Proffesional Edition, WebStorm
   
 Frontend:
 ---
-  + HTML/CSS/JS responsible coding (FlexBox, Table-layout, Bootstrap)
-  + JavaScript - ES8, TypeScript, Canvas
-  + React.js (Material UI, JSS, Redux, Thunk, Saga, Next.js)
+  + HTML/CSS/JS responsible coding (Flex, Bootstrap, Grid)
+  + JavaScript - ES(6, 7, 8), TypeScript
+  + React.js (Material UI, Redux, MobX, Thunk, Saga, Next.js)
   + Vue.js (VueRouter, Vuex, Vuetify, NuxtJs)
   + Angular (RxJs)
   + Webpack, Gulp
