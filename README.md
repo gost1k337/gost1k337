@@ -14,7 +14,7 @@
   + Другое: PyCharm Proffesional Edition, WebStorm
 
  
-  ###### Backend:
+  + ###### Backend:
   
     + Python (Django, FastAPI, Flask)
     + ORMs (Django ORM, Tortoise ORM, SqlAlchemy, Mongoose)
@@ -23,8 +23,8 @@
     + NoSQL-db: MongoDB, Redis
 
 
-  ###### Frontend:
-  + ---
+  + ###### Frontend:
+
     + HTML/CSS/JS (Flex, Bootstrap, Grid)
     + JavaScript - ES(6, 7, 8), TypeScript
     + Vue.js (VueRouter, Vuex, Vuetify, NuxtJs)
