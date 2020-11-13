@@ -8,8 +8,8 @@
 My skills:
 ---
   + OOP, BEM, MVC, REST API, SOLID
-  + Version Control Systems: Git
   + Docker, docker-compose
+  + Version Control Systems: Git
   + Other: PyCharm Proffesional Edition, WebStorm
   + Git repositories: GitHub, GitLab, BitBucket
 
