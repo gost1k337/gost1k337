@@ -23,7 +23,7 @@
     + NoSQL-db: MongoDB, Redis
 
 
-  + ###### Frontend:
+  + #### Frontend:
 
     + HTML/CSS/JS (Flex, Bootstrap, Grid)
     + JavaScript - ES(6, 7, 8), TypeScript
