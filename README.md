@@ -14,7 +14,7 @@
   + Другое: PyCharm Proffesional Edition, WebStorm
 
  
-  + ###### Backend:
+  + #### Backend:
   
     + Python (Django, FastAPI, Flask)
     + ORMs (Django ORM, Tortoise ORM, SqlAlchemy, Mongoose)
