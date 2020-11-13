@@ -11,6 +11,15 @@ My skills:
   + Version Control Systems: Git
   + Docker, docker-compose
   + Other: PyCharm Proffesional Edition, WebStorm
+
+ 
+Backend:
+---
+  + Python (Django, FastAPI, Flask)
+  + Node.js (Express, Socket.IO) + TypeScript
+  + SQL-db: PostrgreSQL, MySQL, PostgreSQL
+  + NoSQL-db: MongoDB, Redis
+
   
 Frontend:
 ---
@@ -21,10 +30,4 @@ Frontend:
   + Angular (RxJs)
   + Webpack, Gulp
   + SASS/SCSS, LESS, Stylus
- 
-Backend:
----
-  + Python (Flask, django, FastAPI)
-  + Node.js (Express, Socket.IO) + TypeScript
-  + SQL-db: PostrgreSQL, MySQL, PostgreSQL
-  + NoSQL-db: MongoDB, Redis
+  
