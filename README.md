@@ -11,7 +11,7 @@
   + Docker, docker-compose
   + Системы контроля версий: Git
   + Git repositories: GitHub, GitLab, BitBucket
-  + Другое: PyCharm Proffesional Edition, WebStorm
+  + Другое: PyCharm Professional Edition, WebStorm
 
  
   + #### Backend:
