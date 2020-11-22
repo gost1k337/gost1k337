@@ -9,9 +9,9 @@
 ---
   + OOP, BEM, MVC, REST API, SOLID
   + Docker, docker-compose
-  + Системы контроля версий: Git
+  + VCS: Git
   + Git repositories: GitHub, GitLab, BitBucket
-  + Другое: PyCharm Professional Edition, WebStorm
+  + IDE: PyCharm Professional Edition, WebStorm
 
  
   + #### Backend:
