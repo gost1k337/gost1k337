@@ -1,11 +1,11 @@
-### Тишков Рустам
+### Tishkov Rustam
 #### Junior Full-Stack Developer
 
 
 
 
 
-Мои навыки:
+My scills:
 ---
   + OOP, BEM, MVC, REST API, SOLID
   + Docker, docker-compose
