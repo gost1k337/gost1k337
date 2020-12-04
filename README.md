@@ -5,7 +5,7 @@
 
 
 
-My scills:
+My skills:
 ---
   + OOP, BEM, MVC, REST API, SOLID
   + Docker, docker-compose
