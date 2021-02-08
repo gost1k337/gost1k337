@@ -28,8 +28,6 @@ My skills:
     + HTML/CSS/JS (Flex, Bootstrap, Grid)
     + JavaScript - ES(6, 7, 8), TypeScript
     + Vue.js (VueRouter, Vuex, Vuetify, NuxtJs)
-    + React.js (Material UI, Redux, MobX, Thunk, Saga, Next.js)
-    + Angular (RxJs)
     + Webpack, Gulp
     + SASS/SCSS, LESS, Stylus
   
