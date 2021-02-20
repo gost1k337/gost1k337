@@ -21,13 +21,14 @@ My skills:
     + Node.js (Express, Socket.IO) + TypeScript
     + SQL-db: PostrgreSQL, MySQL
     + NoSQL-db: MongoDB, Redis
+    + Other: RabbitMQ
 
 
   + #### Frontend:
 
-    + HTML/CSS/JS (Flex, Bootstrap, Grid)
+    + HTML/CSS/JS
     + JavaScript - ES(6, 7, 8), TypeScript
     + Vue.js (VueRouter, Vuex, Vuetify, NuxtJs)
     + Webpack, Gulp
-    + SASS/SCSS, LESS, Stylus
+    + SASS/SCSS,
   
