@@ -1,4 +1,4 @@
-### Tishkov Rustam
+### Tishkov Rustam ![Visitors](https://visitor-badge.glitch.me/badge?page_id=gost3228) 
 #### Junior Full-Stack Developer
 
 
