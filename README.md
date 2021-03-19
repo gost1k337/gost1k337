@@ -58,5 +58,4 @@ My skills:
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gost3228&show_icons=true&theme=gotham" alt="gost3228" />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gost3228&count_private=false&hide=tsql&langs_count=7&theme=gotham&layout=compact" alt="gost3228" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gost3228&show_icons=true&theme=gotham" alt="gost3228" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gost3228&count_private=false&hide=tsql&langs_count=7&theme=gotham&layout=compact" alt="gost3228" /></p>
