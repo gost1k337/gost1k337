@@ -1,13 +1,11 @@
 ### Tishkov Rustam ![Visitors](https://visitor-badge.glitch.me/badge?page_id=gost3228) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 #### Junior Full-Stack Developer
 
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+#### Contacts:
+<a href="https://www.linkedin.com/in/rustam-tishkov-7633841b4/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.telegram.com/gost1k337">
+<a href="https://www.t.me/gost1k337">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
