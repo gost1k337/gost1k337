@@ -1,7 +1,7 @@
 ### Tishkov Rustam ![Visitors](https://visitor-badge.glitch.me/badge?page_id=gost3228) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 #### Backend Developer
 
-[Telegram](https://t.me/gost1k337)
+#### Contact me: [Telegram](https://t.me/gost1k337)
 
 <p></p>
 
