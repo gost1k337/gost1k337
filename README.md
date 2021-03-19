@@ -1,13 +1,7 @@
 ### Tishkov Rustam ![Visitors](https://visitor-badge.glitch.me/badge?page_id=gost3228) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 #### Backend Developer
 
-#### Contacts:
-<a href="https://www.linkedin.com/in/rustam-tishkov-7633841b4/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://t.me/gost1k337">
-  @gost1k337
-</a>
+[Telegram](https://t.me/gost1k337)
 
 <p></p>
 
