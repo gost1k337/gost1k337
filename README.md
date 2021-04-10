@@ -18,7 +18,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-My skills:
+Skills:
 ---
   + OOP, BEM, MVC, REST API, SOLID
   + Docker, docker-compose
@@ -34,7 +34,7 @@ My skills:
     + Node.js (Express, Socket.IO) + TypeScript
     + SQL-db: PostrgreSQL, MySQL
     + NoSQL-db: MongoDB, Redis
-    + Other: RabbitMQ
+    + Message Queue: RabbitMQ, Redis
 
 
   + #### Frontend:
