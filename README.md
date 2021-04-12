@@ -4,7 +4,6 @@
 #### Contact me: 
   + [Telegram](https://t.me/gost1k337)
   + [LinkedIn](https://www.linkedin.com/in/rustam-tishkov-7633841b4/)
-  + [HeadHunter](https://hh.ru/resume/4eec55c6ff084e65b60039ed1f6a6367496434)
 <p></p>
 
 **Languages and Tools:**  
