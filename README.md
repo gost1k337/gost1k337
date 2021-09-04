@@ -17,6 +17,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gost3228&show_icons=true&theme=gotham" alt="gost3228" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gost3228&count_private=false&hide=tsql&langs_count=7&theme=gotham&layout=compact" alt="gost3228" /></p>
+
 Skills:
 ---
   + OOP, BEM, MVC, REST API, SOLID
@@ -44,7 +48,3 @@ Skills:
     + Webpack, Gulp
     + SASS/SCSS
   
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gost3228&show_icons=true&theme=gotham" alt="gost3228" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gost3228&count_private=false&hide=tsql&langs_count=7&theme=gotham&layout=compact" alt="gost3228" /></p>
