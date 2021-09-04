@@ -1,4 +1,4 @@
-### Tishkov Rustam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![Visitors](https://visitor-badge.glitch.me/badge?page_id=gost3228) <a href="https://leetcode.com/gost1k337/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsashafromlibertalia&logo=leetcode&logoColor=yellow)" alt="gost1k337" /> </a>
+### Tishkov Rustam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![Visitors](https://visitor-badge.glitch.me/badge?page_id=gost3228) <a href="https://leetcode.com/gost1k337/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgost1k337&logo=leetcode&logoColor=yellow)" alt="gost1k337" /> </a>
 #### Backend Developer
 
 #### Contact me: 
