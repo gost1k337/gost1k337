@@ -2,7 +2,10 @@
 #### Backend Developer
 
 #### Profiles:
-[![GitHub Badge](https://img.shields.io/badge/-gost3228-171c23?style=flat-square&labelColor=171c23&logo=github&logoColor=white&link=https://github.com/gost3228)](https://github.com/gost3228) [![Linkedin Badge](https://img.shields.io/badge/-Rustam_Tishkov-0077B7?style=flat-square&labelColor=0077B7&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rustam-tishkov-7633841b4/)](https://www.linkedin.com/in/rustam-tishkov-7633841b4/)
+[![Linkedin Badge](https://img.shields.io/badge/-Rustam_Tishkov-0077B7?style=flat-square&labelColor=0077B7&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rustam-tishkov-7633841b4/)](https://www.linkedin.com/in/rustam-tishkov-7633841b4/) [![GitHub Badge](https://img.shields.io/badge/-gost3228-171c23?style=flat-square&labelColor=171c23&logo=github&logoColor=white&link=https://github.com/gost3228)](https://github.com/gost3228) [![Telegram Badge](https://img.shields.io/badge/-gost1k337-2BA5E0?style=flat-square&labelColor=2BA5E0&logo=telegram&logoColor=white&link=https://t.me/gost1k337/)](https://t.me/gost1k337)
+
+
+
 <p></p>
 
 **Languages and Tools:**  
