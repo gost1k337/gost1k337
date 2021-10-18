@@ -27,7 +27,7 @@
 
 Skills:
 ---
-  + OOP, BEM, MVC, REST API, SOLID
+  + OOP, MVC, REST API, Patterns
   + Docker, docker-compose
   + VCS: Git
   + Git repositories: GitHub, GitLab, BitBucket
