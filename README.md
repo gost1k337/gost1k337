@@ -29,7 +29,7 @@ Skills:
 ---
   + OOP, MVC, REST API, Patterns
   + Docker, docker-compose
-  + VCS: Git
+  + Git
   + Algorithms & Data structures
   + Python (Django, FastAPI, Flask)
   + Node.js (Express) + TypeScript
