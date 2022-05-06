@@ -32,6 +32,6 @@ Skills:
   + Git
   + Algorithms & Data structures
   + Python (Django, FastAPI, Flask)
-  + Node.js (Express) + TypeScript
-  + Storages: PostrgreSQL, MySQL, MongoDB, Redis
+  + Node.js (Express, Next.js) + TypeScript
+  + Storages: PostrgreSQL, MongoDB, Redis
 
